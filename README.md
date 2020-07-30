@@ -10,7 +10,4 @@
 </ul>
 
 ## Onde me encontrar
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/elias-wacheski"
+ [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/elias-wacheski)
