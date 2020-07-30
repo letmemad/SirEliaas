@@ -22,4 +22,4 @@
 ## Onde me encontrar
  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/elias-wacheski/)
  <br />
- [![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/20px-Facebook_f_logo_%282019%29.svg.png) Faceook](https://www.facebook.com/elias.wacheski1)
+ [![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/15px-Facebook_f_logo_%282019%29.svg.png) Faceook](https://www.facebook.com/elias.wacheski1)
