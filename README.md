@@ -1,7 +1,7 @@
 ## Olá, eu sou o Elias 👨‍💻👏
 
 <p>
-  Apaixonado por tecnologia e filmes sobre ficção científica.
+  Apaixonado por tecnologia e filmes sobre ficção científica. <br />
   Atualmente cursando inglês e Engenharia de Software.
 </p>
 
