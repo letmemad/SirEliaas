@@ -1,8 +1,8 @@
-## Olá, eu sou o Elias 👨‍💻👏
+
+## Elias Wacheski 👨‍💻👏
 
 <p>
-  Apaixonado por tecnologia e filmes sobre ficção científica. <br />
-  Atualmente cursando inglês e Engenharia de Software.
+  Um cara muito apaixonado por tecnologia, cafézinho e filmes de ficção.<br />
 </p>
 
 ## Formação
@@ -12,11 +12,16 @@
   <li>Inglês avançado | Uptime - Londrina</li>
 </ul>
 
+## Experiência
+<h4>Instituto Biosistêmico / 2020 - 2022 <br>Desenvolvedor Mobile Pleno</br></h4>
+<p>• Responsável por desenvolver e publicar aplicativos offline first voltados a agropecuária para ambos os sistemas operacionais Android & iOS.</p>
+
 ## Stack
 <ul>
-  <li>NodeJS</li>
   <li>ReactJS</li>
   <li>React Native</li>
+  <li>ReduxJS</li>
+  <li>Styled-Components</li>
 </ul>
 
 ## Onde me encontrar
