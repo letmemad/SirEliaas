@@ -1,5 +1,6 @@
 
 ## Elias Wacheski 👨‍💻
+Desenvolvedor Mobile Pleno
 
 <p>
   Um cara muito apaixonado por tecnologia, cafézinho e filmes de ficção.<br />
