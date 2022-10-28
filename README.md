@@ -1,5 +1,5 @@
 
-## Elias Wacheski 👨‍💻👏
+## Elias Wacheski 👨‍💻
 
 <p>
   Um cara muito apaixonado por tecnologia, cafézinho e filmes de ficção.<br />
